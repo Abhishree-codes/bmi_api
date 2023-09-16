@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Abhishree Tripathi",
+      "email": "bhishree18@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Nidhi Tripathi",
+      "email": "bhishree19@gmail.com",
+      "password": "Mandalorian1234@",
+      "id": 2
+    },
+    {
+      "name": "Varnika Gupta",
+      "email": "bhishree20@gmail.com",
+      "password": "Ginsberg1@",
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "userID": 1,
+      "date": "02-05-23",
+      "email": "bhishree18@gmail.com",
+      "BMIvalue": 50
+    }
+  ]
+}
